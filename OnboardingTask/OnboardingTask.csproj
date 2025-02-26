@@ -138,6 +138,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Collection.cs" />
+    <Compile Include="IEnumerableCollection.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Arrays.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
